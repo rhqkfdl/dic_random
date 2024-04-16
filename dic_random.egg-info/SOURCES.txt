@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+dic_random/app.py
+dic_random.egg-info/PKG-INFO
+dic_random.egg-info/SOURCES.txt
+dic_random.egg-info/dependency_links.txt
+dic_random.egg-info/top_level.txt
