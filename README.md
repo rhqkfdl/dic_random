@@ -6,7 +6,7 @@
 
 다운로드 : pip install dir_random
 
-사용방법 : 개발
+사용방법 : from dic_random import app
 
 ````
 dic_choice(a)
