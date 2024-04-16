@@ -4,7 +4,7 @@
 
 깃허브 레퍼지토리 : [레퍼지토리](https://github.com/rhqkfdl/dic_random.git)
 
-다운로드 : pip install dir_random
+다운로드 : pip install dic-random
 
 사용방법 : from dic_random import app
 
